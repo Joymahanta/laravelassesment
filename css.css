@@ -1,0 +1,691 @@
+.servic {
+    position: absolute;
+    background-color: #ffffff;
+    height: 832px;
+    width: 1280px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.servic1 {
+    background-color: #65bfff;
+    height: 673.9px;
+    width: 813.9px;
+    transform: rotate(-1deg);
+    top: -285px;
+    left: 507px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic2 {
+    background-color: #ffffff;
+    height: 195px;
+    width: 195px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 313px;
+    left: 816px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic4 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 128px;
+    left: 1233px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic5 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 300px;
+    left: 695px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic6 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 301px;
+    left: 1017px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic7 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 237px;
+    left: 1140px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic8 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 237px;
+    left: 562px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.servic9 {
+    background-color: #ffffff;
+    height: 115px;
+    width: 115px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 16%;
+    left: 38%;
+    position: absolute;
+    border-radius: 50%;
+}
+
+.compani_name {
+    color: #333333;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 18px;
+    font-family: Poppins;
+    align-self: flex-start;
+    left: 175px;
+    top: 39px;
+    position: absolute;
+    line-height: auto;
+    width: 314px;
+}
+
+.header {
+    height: 27px;
+    width: 645px;
+    align-self: flex-start;
+    left: 554px;
+    top: 39px;
+    position: absolute;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 54px;
+}
+
+.subservice {
+    height: 240px;
+    width: 384px;
+    align-self: flex-start;
+    left: 100px;
+    top: 381px;
+    position: absolute;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.section {
+    color: #0094ff;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 44px;
+    font-family: sans-serif;
+
+}
+
+.button {
+    align-self: flex-start;
+    left: 91px;
+    top: 529px;
+    position: absolute;
+    width: 163px;
+    height: 54px;
+    border: 0;
+}
+
+.contact {
+    background-color: #1681c4;
+    height: 54px;
+    width: 163px;
+    border-radius: 23px;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.contactnow {
+    color: #ffffff;
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 14px;
+    font-family: Poppins;
+    left: 22%;
+    top: 36%;
+    width: 93px;
+    height: 21px;
+    position: absolute;
+    line-height: auto;
+}
+
+.logo {
+    height: 45px;
+    width: 50px;
+    left: 28px;
+    top: 17px;
+    position: absolute;
+    border-radius: 35px;
+}
+
+.group1 {
+    align-self: flex-start;
+    left: 831px;
+    top: 328px;
+    position: absolute;
+    width: 165px;
+    height: 165px;
+}
+
+.globe {
+    height: 136px;
+    width: 133px;
+    left: 16px;
+    top: 17px;
+    position: absolute;
+}
+
+.desktop1 {
+    background-color: #ffffff;
+    height: 122px;
+    width: 211px;
+    border-radius: 10px;
+    border: 6px solid #007dc5;
+    top: 172px;
+    left: 173px;
+    position: absolute;
+}
+
+.group2 {
+    align-self: flex-start;
+    left: 236px;
+    top: 190px;
+    position: absolute;
+    width: 85px;
+    height: 85px;
+}
+
+.curentpage {
+    height: 85px;
+    width: 85px;
+    left: 240px;
+    top: 191px;
+    position: absolute;
+}
+
+.nextpage {
+    height: 85px;
+    width: 85px;
+    left: 1044px;
+    top: 428px;
+    position: absolute;
+}
+
+.priviouspage {
+    height: 85px;
+    width: 85px;
+    left: 708px;
+    top: 428px;
+    position: absolute;
+}
+
+.androied_curentpage {
+    height: 85px;
+    width: 85px;
+    left: 7px;
+    top: 1px;
+    position: absolute;
+}
+
+.desktop2 {
+    background-color: #ffffff;
+    height: 37px;
+    width: 29px;
+    border: 6px solid #007dc5;
+    top: 294px;
+    left: 264px;
+    position: absolute;
+}
+
+.ellipse {
+    background-color: #d9d9d9;
+    height: 9px;
+    width: 98px;
+    top: 331px;
+    left: 231px;
+    position: absolute;
+    border-radius: 50%;
+}
+
+/* Index */
+.index_globe {
+    height: 134px;
+    width: 131px;
+    left: 849px;
+    top: 336px;
+    position: absolute;
+}
+
+.index_dataanalisis {
+    height: 77px;
+    width: 76px;
+    left: 1159px;
+    top: 31%;
+    position: absolute;
+}
+
+.index_document {
+    height: 82px;
+    width: 100px;
+    left: 80%;
+    top: 39%;
+    position: absolute;
+}
+
+.index_androied {
+    height: 75px;
+    width: 82px;
+    left: 712px;
+    top: 314px;
+    position: absolute;
+}
+
+.index_digitalmarketing {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 248px;
+    position: absolute;
+}
+
+.index_setings {
+    height: 70px;
+    width: 67px;
+    left: 509px;
+    top: 156px;
+    position: absolute;
+}
+
+.index_cloud {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+/*content_Writing_dataanalisist*/
+.content_Writing_dataanalisist {
+    height: 72px;
+    width: 92px;
+    left: 90%;
+    top: 31%;
+    position: absolute;
+}
+
+.content_Writing_document {
+    height: 134px;
+    width: 131px;
+    left: 855px;
+    top: 346px;
+    position: absolute;
+}
+
+.content_Writing_setings {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.content_Writing_cloud {
+    height: 82px;
+    width: 100px;
+    left: 80%;
+    top: 39%;
+    position: absolute;
+}
+
+.content_Writing_globe {
+    height: 77px;
+    width: 72px;
+    left: 720px;
+    top: 317px;
+    position: absolute;
+}
+
+.content_Writing_androied {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 248px;
+    position: absolute;
+}
+
+.content_Writing_digital-marketing {
+    height: 70px;
+    width: 67px;
+    left: 509px;
+    top: 156px;
+    position: absolute;
+}
+
+/*Cloud_Computing*/
+.Cloud_Computing_cloud {
+    height: 177px;
+    width: 163px;
+    left: 829px;
+    top: 308px;
+    position: absolute;
+}
+
+.Cloud_Computing_setings {
+    height: 70px;
+    width: 67px;
+    left: 1165px;
+    top: 260px;
+    position: absolute;
+}
+
+.Cloud_Computing_digital-marketing {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.Cloud_Computing_dataanalisis {
+    height: 82px;
+    width: 100px;
+    left: 80%;
+    top: 39%;
+    position: absolute;
+}
+
+.Cloud_Computing_document {
+    height: 72px;
+    width: 74px;
+    left: 718px;
+    top: 318px;
+    position: absolute;
+}
+
+.Cloud_Computing_globe {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 248px;
+    position: absolute;
+}
+
+.Cloud_Computing_androied {
+    height: 70px;
+    width: 67px;
+    left: 509px;
+    top: 156px;
+    position: absolute;
+}
+
+/* Data_Analysis */
+.Data_Analysis_dataanalisis {
+    height: 134px;
+    width: 131px;
+    left: 855px;
+    top: 346px;
+    position: absolute;
+}
+
+.Data_Analysis_digitalmarketing {
+    height: 72px;
+    width: 92px;
+    left: 90%;
+    top: 31%;
+    position: absolute;
+}
+
+.Data_Analysis_androied {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.Data_Analysis_setings {
+    height: 82px;
+    width: 100px;
+    left: 80%;
+    top: 39%;
+    position: absolute;
+}
+
+.Data_Analysis_cloud {
+    height: 100px;
+    width: 100px;
+    left: 700px;
+    top: 301px;
+    position: absolute;
+}
+
+.Data_Analysis_androied {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 248px;
+    position: absolute;
+}
+
+.Data_Analysis_document {
+    height: 70px;
+    width: 67px;
+    left: 509px;
+    top: 156px;
+    position: absolute;
+}
+
+.Data_Analysis_globe {
+    height: 80px;
+    width: 74px;
+    left: 1255px;
+    top: 149px;
+    position: absolute;
+}
+
+/* Software_Automation */
+.Software_Automation_setings {
+    height: 134px;
+    width: 131px;
+    left: 850px;
+    top: 346px;
+    position: absolute;
+}
+
+.Software_Automation_androied {
+    height: 72px;
+    width: 92px;
+    left: 90%;
+    top: 31%;
+    position: absolute;
+}
+
+.Software_Automation_document {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.Software_Automation_dataanalisis {
+    height: 71px;
+    width: 84px;
+    left: 710px;
+    top: 319px;
+    position: absolute;
+}
+
+.Software_Automation_digitalmarketing {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 248px;
+    position: absolute;
+}
+
+.Software_Automation_cloud {
+    height: 80px;
+    width: 80px;
+    left: 1035px;
+    top: 315px;
+    position: absolute;
+}
+
+.Software_Automation_globe {
+    height: 80px;
+    width: 80px;
+    left: 503px;
+    top: 152px;
+    position: absolute;
+}
+
+/* Digital_Marketing */
+.Digital_Marketing_digital {
+    height: 134px;
+    width: 131px;
+    left: 849px;
+    top: 336px;
+    position: absolute;
+}
+
+.Digital_Marketing_document {
+    height: 72px;
+    width: 92px;
+    left: 90%;
+    top: 31%;
+    position: absolute;
+}
+
+.Digital_Marketing_globe {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.Digital_Marketing_androied {
+    height: 82px;
+    width: 100px;
+    left: 80%;
+    top: 39%;
+    position: absolute;
+}
+
+.Digital_Marketing_setings {
+    height: 78px;
+    width: 67px;
+    left: 716px;
+    top: 317px;
+    position: absolute;
+}
+
+.Digital_Marketing_dataanalisis {
+    height: 72px;
+    width: 72px;
+    left: 583px;
+    top: 259px;
+    position: absolute;
+}
+
+.Digital_Marketing_cloud {
+    height: 70px;
+    width: 67px;
+    left: 509px;
+    top: 156px;
+    position: absolute;
+}
+
+/*Androied application*/
+.androied_digital {
+    height: 75px;
+    width: 77px;
+    left: 714px;
+    top: 318px;
+    position: absolute;
+
+}
+
+.androied_globe {
+    height: 79px;
+    width: 86px;
+    left: 1031px;
+    top: 319px;
+    position: absolute;
+}
+
+.androied_dataanalisis {
+    height: 70px;
+    width: 79px;
+    left: 505px;
+    top: 156px;
+    position: absolute;
+}
+
+.androied_setings {
+    height: 80px;
+    width: 80px;
+    left: 579px;
+    top: 255px;
+    position: absolute;
+}
+
+.androied_android {
+    height: 136px;
+    width: 133px;
+    left: 16px;
+    top: 17px;
+    position: absolute;
+}
+
+.androied_cloud {
+    height: 77px;
+    width: 76px;
+    left: 98%;
+    top: 18%;
+    position: absolute;
+}
+
+.androied_document {
+    height: 72px;
+    width: 92px;
+    left: 90%;
+    top: 31%;
+    position: absolute;
+}
